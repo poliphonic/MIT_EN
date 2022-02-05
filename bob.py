@@ -1,4 +1,4 @@
-# !/usr/bin/env python3.
+#!/usr/bin/env python3.
 
 # Assume s is a string of lower case characters.
 # Write a program that prints the number of times the string 'bob'
